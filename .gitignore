@@ -1,0 +1,10 @@
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+./terraform-provider-scalyr
+terraform/crash.log
+
+terraform-provider-scalyr
+
+.DS_Store
